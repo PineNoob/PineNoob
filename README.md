@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PineNoob
+- 👀 I’m interested in Pine Script
+- 🌱 I’m currently learning how to use github
+- 💞️ I’m looking to collaborate on editing existing pine codes to better fulfill my trading strategy
